@@ -9,4 +9,4 @@
 • Built analytics and machine learning projects across environmental data, cybersecurity, recommendation systems, and urban mobility
 • Experienced in data preprocessing, modeling, evaluation, and visualization
 
-🔗 Let’s connect:LinkedIn
+🔗 Let’s connect: LinkedIn
